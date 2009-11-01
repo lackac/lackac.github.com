@@ -1,0 +1,79 @@
+/* M+ 2P primary :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: */
+
+@font-face {
+  font-family: mplus-2p-regular;
+  src: url('http://icanscale.com/fonts/mplus-2p-regular.ttf')
+       format("truetype");
+}
+
+@font-face {
+  font-family: mplus-2p-bold;
+  src: url('http://icanscale.com/fonts/mplus-2p-bold.ttf')
+       format("truetype");
+}
+
+/* M+ 2M primary :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: */
+
+@font-face {
+  font-family: mplus-2m-regular;
+  src: url('http://icanscale.com/fonts/mplus-2m-regular.ttf')
+       format("truetype");
+}
+
+@font-face {
+  font-family: mplus-2m-bold;
+  src: url('http://icanscale.com/fonts/mplus-2m-bold.ttf')
+       format("truetype");
+}
+
+/* M+ 2P others ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: */
+
+@font-face {
+  font-family: mplus-2p-thin;
+  src: url('http://icanscale.com/fonts/mplus-2p-thin.ttf')
+       format("truetype");
+}
+
+@font-face {
+  font-family: mplus-2p-light;
+  src: url('http://icanscale.com/fonts/mplus-2p-light.ttf')
+       format("truetype");
+}
+
+@font-face {
+  font-family: mplus-2p-medium;
+  src: url('http://icanscale.com/fonts/mplus-2p-medium.ttf')
+       format("truetype");
+}
+
+@font-face {
+  font-family: mplus-2p-heavy;
+  src: url('http://icanscale.com/fonts/mplus-2p-heavy.ttf')
+       format("truetype");
+}
+
+@font-face {
+  font-family: mplus-2p-black;
+  src: url('http://icanscale.com/fonts/mplus-2p-black.ttf')
+       format("truetype");
+}
+
+/* M+ 2M others ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: */
+
+@font-face {
+  font-family: mplus-2m-thin;
+  src: url('http://icanscale.com/fonts/mplus-2m-thin.ttf')
+       format("truetype");
+}
+
+@font-face {
+  font-family: mplus-2m-light;
+  src: url('http://icanscale.com/fonts/mplus-2m-light.ttf')
+       format("truetype");
+}
+
+@font-face {
+  font-family: mplus-2m-medium;
+  src: url('http://icanscale.com/fonts/mplus-2m-medium.ttf')
+       format("truetype");
+}
