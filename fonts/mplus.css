@@ -1,13 +1,14 @@
 /* M+ 2P primary :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: */
 
 @font-face {
-  font-family: mplus-2p-regular;
+  font-family: mplus-2p;
   src: url('http://icanscale.com/fonts/mplus-2p-regular.ttf')
        format("truetype");
 }
 
 @font-face {
-  font-family: mplus-2p-bold;
+  font-family: mplus-2p;
+  font-weight: bold;
   src: url('http://icanscale.com/fonts/mplus-2p-bold.ttf')
        format("truetype");
 }
@@ -15,13 +16,14 @@
 /* M+ 2M primary :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: */
 
 @font-face {
-  font-family: mplus-2m-regular;
+  font-family: mplus-2m;
   src: url('http://icanscale.com/fonts/mplus-2m-regular.ttf')
        format("truetype");
 }
 
 @font-face {
-  font-family: mplus-2m-bold;
+  font-family: mplus-2m;
+  font-weight: bold;
   src: url('http://icanscale.com/fonts/mplus-2m-bold.ttf')
        format("truetype");
 }
@@ -29,31 +31,36 @@
 /* M+ 2P others ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: */
 
 @font-face {
-  font-family: mplus-2p-thin;
+  font-family: mplus-2p;
+  font-weight: 100;
   src: url('http://icanscale.com/fonts/mplus-2p-thin.ttf')
        format("truetype");
 }
 
 @font-face {
-  font-family: mplus-2p-light;
+  font-family: mplus-2p;
+  font-weight: 300;
   src: url('http://icanscale.com/fonts/mplus-2p-light.ttf')
        format("truetype");
 }
 
 @font-face {
-  font-family: mplus-2p-medium;
+  font-family: mplus-2p;
+  font-weight: 600;
   src: url('http://icanscale.com/fonts/mplus-2p-medium.ttf')
        format("truetype");
 }
 
 @font-face {
-  font-family: mplus-2p-heavy;
+  font-family: mplus-2p;
+  font-weight: 800;
   src: url('http://icanscale.com/fonts/mplus-2p-heavy.ttf')
        format("truetype");
 }
 
 @font-face {
-  font-family: mplus-2p-black;
+  font-family: mplus-2p;
+  font-weight: 900;
   src: url('http://icanscale.com/fonts/mplus-2p-black.ttf')
        format("truetype");
 }
@@ -61,19 +68,22 @@
 /* M+ 2M others ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: */
 
 @font-face {
-  font-family: mplus-2m-thin;
+  font-family: mplus-2m;
+  font-weight: 100;
   src: url('http://icanscale.com/fonts/mplus-2m-thin.ttf')
        format("truetype");
 }
 
 @font-face {
-  font-family: mplus-2m-light;
+  font-family: mplus-2m;
+  font-weight: 300;
   src: url('http://icanscale.com/fonts/mplus-2m-light.ttf')
        format("truetype");
 }
 
 @font-face {
-  font-family: mplus-2m-medium;
+  font-family: mplus-2m;
+  font-weight: 600;
   src: url('http://icanscale.com/fonts/mplus-2m-medium.ttf')
        format("truetype");
 }
